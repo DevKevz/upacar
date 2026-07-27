@@ -1,0 +1,11 @@
+{
+  "name": "upacar",
+  "private": true,
+  "packageManager": "bun@1.1.0",
+  "scripts": {
+    "dev:frontend": "bun --cwd frontend/nuxt-app run dev",
+    "build:frontend": "bun --cwd frontend/nuxt-app run build",
+    "dev:backend": "bun --cwd backend run dev",
+    "build:backend": "bun --cwd backend run build"
+  }
+}
