@@ -1,0 +1,18 @@
+{
+  "name": "upacar-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.13.1",
+    "nuxt": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
